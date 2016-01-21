@@ -1,2 +1,8 @@
 # Open Source GIS Working Group
 ###Notes, data, and documentation from the Open Source GIS Working Group
+
+## Geoserver
+
+*Note Bene*: We are using [GeoServer: GeoServer Beginner’s Guide](http://site.ebrary.com.proxy.library.vanderbilt.edu/lib/vanderbilt/detail.action?docID=10672324) as our study guide.
+
+For notes from our sessions on Geoserver, see the corresponding [Wiki](wiki/geoserver).
