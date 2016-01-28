@@ -1,0 +1,63 @@
+<html>
+   <head>
+         <title>Counties of Colorado</title>
+         <link rel="stylesheet" href="http://dev.openlayers.org/theme/default/style.css" type="text/css">
+         <style>
+                 #map-id {
+                         width: 512px;
+                         height: 300px;
+                 }
+         </style>
+         <script src="http://dev.openlayers.org/OpenLayers.js"></script>
+         </head>
+         <body>
+             <h1>Colca Valley Pukaras</h1>
+             <div id="map-id"></div>
+             <script>
+                 var bounds = new OpenLayers.Bounds (194843.7313000001, 8264970.7597, 240702.40259999968, 8289118.7687);
+                 var options = {
+                 maxExtent: bounds,
+                 projection: 'EPSG:32719',
+                 units: 'meters'
+                 };
+
+                 map = new OpenLayers.Map('map-id', options);
+
+                 var pukaras = new OpenLayers.Layer.WMS(
+                                 "Pukaras", "http://localhost:8080/geoserver/Pukaras/wms",
+                                 {
+                                         srs: 'EPSG:32719',
+                                         layers: 'Pukaras:Pukaras',
+                                         transparent: 'true',
+                                         styles: '',
+                                         format:'image/png'
+                                 },
+                                 {singleTile: true, ratio: 1}
+                 );
+                 var dem = new OpenLayers.Layer.WMS(
+                                 "Colca DEM", "http://localhost:8080/geoserver/Pukaras/wms",
+                                 {
+                                         srs: 'EPSG:4326',
+                                         layers: 'Pukaras:Colca_hs',
+                                         styles: '',
+                                         format:'image/png'
+                                 },
+                                 {singleTile: true, ratio: 1}
+                 );
+
+
+                 map.addLayer(pukaras);
+                 map.addLayer(dem);
+
+                 // build up all controls
+                 map.addControl(new OpenLayers.Control.PanZoomBar({
+                         position: new OpenLayers.Pixel(2, 15)
+                 }));
+                 map.addControl(new OpenLayers.Control.Navigation());
+                 map.addControl(new OpenLayers.Control.Scale());
+                 map.addControl(new OpenLayers.Control.MousePosition());
+                 map.zoomToExtent(bounds);
+
+         </script>
+        </body>
+</html>
