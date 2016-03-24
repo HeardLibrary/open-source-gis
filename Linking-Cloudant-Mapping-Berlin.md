@@ -118,6 +118,8 @@ function(doc){
 #### Replace the URLs linking the repository to the Heard Library's cloudant database your your own cloudant database URL.  Everywhere you see https://vulibrarygis.cloudant.com/map-berlin, replace that portion of the URL with your database URL.  For example, my database URL is https://ramonav.cloudant.com/open-gis.
 #### You will make these changes at line:  85, 124, 140 and 159.
 
+#### Remember to commit your changes!
+
 ![Imgur](http://i.imgur.com/UYPMFYw.png)
 
 #### If everything has been formatted correctly you should be able to view your test point on the GitHub Pages site for your repository.
