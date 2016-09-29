@@ -1,7 +1,13 @@
 # Open Source GIS Working Group
 ###Notes, data, and documentation from the Open Source GIS Working Group
 
-## Geoserver
+## Making an Online Mapping Application
+
+[Map-Template](https://github.com/HeardLibrary/map-template)
+
+## Past Open Source GIS Working Group Sessions
+
+### Geoserver
 
 *Note Bene*: We are using [GeoServer: GeoServer Beginner’s Guide](http://site.ebrary.com.proxy.library.vanderbilt.edu/lib/vanderbilt/detail.action?docID=10672324) as our study guide.
 
