@@ -1,0 +1,418 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Granary Burying Ground",
+        "tour": "free",
+        "marker-size": "medium",
+        "marker-color": "#990000",
+        "marker-symbol": "circle-stroked",
+        "images": [
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Granary_Burying_Ground_%288610213314%29.jpg",
+            "description": "Granary Burying Ground, Boston, MA.  Site of many notable burials including Paul Revere (\"Granary Burying Ground\" by City of Boston Archives from West Roxbury, United States (Granary Burying Ground) [CC BY 2.0], via Wikimedia Commons)"
+          },
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Boston_Massacre_victims_grave.jpg",
+            "description": "Granary Burying Ground, Boston, MA.  Grave of Boston Massacre Victims. (\"Grave of Boston Massacre Victims\" by Swampyank at en.wikipedia [CC BY-SA 3.0], via Wikimedia Commons)"
+          },
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Paul_Revere_Memorial%2C_Granary_Burying_Ground%2C_Boston%2C_Massachusetts.jpg",
+            "description": "Granary Burying Ground, Boston, MA. Paul Revere Memorial. (\"Paul Revere Memorial\" by RhythmicQuietude (Own work) [CC BY-SA 3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.061694,
+          42.357389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "King's Chapel and Burying Ground",
+        "series": "Summer 2016",
+        "tour": "free",
+        "marker-size": "medium",
+        "marker-color": "#990000",
+        "marker-symbol": "circle-stroked",
+        "images": [
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kings_chapel_boston_2009h.JPG",
+            "description": "King's Chapel, Boston, MA.(\"King's Chapel\" by Chensiyuan (Own work) [GFDL or CC BY-SA 4.0-3.0-2.5-2.0-1.0 ], via Wikimedia Commons)"
+          },
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/2006Boston002.jpg",
+            "description": "King's Chapel Burying Ground, Boston, MA.(\"King's Chapel Burying Ground\" by MamaGeek [GFDL or CC-BY-SA-3.0], via Wikimedia Commons"
+          },
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/King%27s_Chapel%2C_Boston%2C_1833.jpg",
+            "description": "King's Chapel and Burying Ground, Boston, MA ca. 1833 (\"King's Chapel and Burying Ground\" by possibly Joseph Andrews of Carter, Andrews & Co. [Public domain], via Wikimedia Commons"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.059994,
+          42.358003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Boston Latin School",
+        "series": "Summer 2016",
+        "tour": "free",
+        "marker-size": "medium",
+        "marker-color": "#990000",
+        "marker-symbol": "circle-stroked",
+        "images": [
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Boston_Latin_School_original.jpg",
+            "description": "Boston Latin School, Boston, MA.  Original Location of the Boston Latin School, the oldest public school in the US.  Founded in 1635.  Site also marked by a bronze statue of Benjamin Franklin (\"Boston Latin School\" [Public domain], via Wikimedia Commons"
+          },
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Boston_Latin_Plaque.jpg",
+            "description": "Boston Latin School, Boston, MA.  Plaque marking the original location of the Boston Latin School. (\"Boston Latin School\" by By Swampyank at en.wikipedia [CC BY-SA 3.0], via Wikimedia Commons)"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.059209,
+          42.358288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "USS Constitution",
+        "series": "Summer 2016",
+        "tour": "free",
+        "marker-size": "medium",
+        "marker-color": "#990000",
+        "marker-symbol": "circle-stroked",
+        "images": [
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/USS_Constitution_fires_a_17-gun_salute.jpg",
+            "description": "USS Constitution, Charlestown, MA. USS Constitution, launched 1797, is one of the 6 original frigates authorized for construction by the Naval Act of 1794.  Constitution is most noted for her actions in the War of 1812 where she earned the nickname \"Old Ironsides\"(\"USS Constitution Fires a 17-Gun Salute\" by (U.S. Navy photo by Seaman Matthew R. Fairchild/Released) 140704-N-OG138-866 (https://www.flickr.com/photos/usnavy/14595957594/) [Public domain], via Wikimedia Commons"
+          },
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flickr_-_Official_U.S._Navy_Imagery_-_USS_Constitution_sails_into_Boston_Harbor.jpg",
+            "description": "USS Constitution, Charlestown, MA. (\"USS Constitution Sails into Boston Harbor\" by Official Navy Page from United States of America Oscar Sosa/U.S. Navy (USS Constitution sails into Boston Harbor) [Public domain], via Wikimedia Commons"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0533464533,
+          42.369915187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old North Church",
+        "tour": "free",
+        "marker-size": "medium",
+        "marker-color": "#990000",
+        "marker-symbol": "circle-stroked",
+        "images": [
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Old_North_Church_%288617014730%29.jpg",
+            "description": "Old North Church, Boston, MA. Oldest standing church in the city of Boston.  The location from which the famous \"One if by land, and two if by sea\" signal is said to have been sent. (\"Old North Church\" by City of Boston Archives from West Roxbury, United States (Old North Church) [CC BY 2.0], via Wikimedia Commons"
+          },
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Old_North_Church_Boston_DSC_0815_ad.JPG",
+            "description": "Old North Church, Boston, MA. (\"Old North Church Boston\" by Adavyd (Own work) [CC BY-SA 3.0], via Wikimedia Commons"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.054456,
+          42.366328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Site of the Boston Massacre",
+        "series": "Summer 2016",
+        "tour": "free",
+        "marker-size": "medium",
+        "marker-color": "#990000",
+        "marker-symbol": "circle-stroked",
+        "images": [
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Boston_Massacre_high-res.jpg",
+            "description": "Engrav'd Printed & Sold by Paul Revere Boston. The print was copied by Revere from a design by Henry Pelham for an engraving eventually published under the title \"The Fruits of Arbitrary Power, or the Bloody Massacre,\" of which only two impressions could be located by Brigham. Revere's print appeared on or about March 28, 1770. (\"Boston Massacre\" [Public domain], via Wikimedia Commons"
+          },
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Site_of_the_Boston_Massacre_%288636636753%29.jpg",
+            "description": "Circle marking the location of the Boston Massacre, Boston, MA. (\"Boston Massacre Site, Boston, MA\" by City of Boston Archives from West Roxbury, United States (Site of the Boston Massacre) [CC BY 2.0], via Wikimedia Commons)"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05717,
+          42.35879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Massachusetts State House",
+        "series": "Summer 2016",
+        "tour": "free",
+        "marker-size": "medium",
+        "marker-color": "#990000",
+        "marker-symbol": "circle-stroked",
+        "images": [
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Massachusetts_State_House_5.JPG",
+            "description": "Massachusetts State House, Boston, MA.  Completed in 1798. (\"Massachusetts State House\" by AlexiusHoratius (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons)"
+          },
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Dome_of_the_Massachusetts_State_House_%288610212088%29.jpg",
+            "description": "Dome of the Massachusetts State House, Boston, MA (\"Dome of the Massachusetts State House, Boston, MA\" by City of Boston Archives from West Roxbury, United States (Dome of the Massachusetts State House) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons)"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.063694,
+          42.358167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Copp's Hill Burying Ground",
+        "series": "Summer 2016",
+        "tour": "free",
+        "marker-size": "medium",
+        "marker-color": "#990000",
+        "marker-symbol": "circle-stroked",
+        "images": [
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Copp%27s_Hill_Burying_Ground.jpg",
+            "description": "Copp's Hill Burying Ground, Boston, MA. Boston's largest colonial era burying ground, dating from 1659. (\"Copp's Hill Burying Ground\" by Biscuitcleaver (talk) (Uploads) (Own work) [Public domain], via Wikimedia Commons"
+          },
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Copps_Hill_Burying_Ground_Headstone.jpg",
+            "description": "Copp's Hill Burying Ground, Boston, MA. (\"Copp's Hill Burying Ground Headstone\" by Balon Greyjoy (Own work) [CC0], via Wikimedia Commons"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.056389,
+          42.367222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Paul Revere House",
+        "series": "Summer 2016",
+        "tour": "free",
+        "marker-size": "medium",
+        "marker-color": "#990000",
+        "marker-symbol": "circle-stroked",
+        "images": [
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Paul_Revere_House_Boston_MA.jpg",
+            "description": "Paul Revere House, Boston, MA. Built ca. 1680, the Paul Revere House is the oldest remaining structure in downtown Boston. Paul Revere owned the home from 1770-1800. (\"Paul Revere house\" by Jameslwoodward (Own work) [CC BY-SA 3.0 or GFDL], via Wikimedia Commons"
+          },
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Paul_Revere_House_%288610209640%29.jpg",
+            "description": "Paul Revere House, Boston, MA. (\"Paul Revere House\" by City of Boston Archives from West Roxbury, United States (Paul Revere House) [CC BY 2.0], via Wikimedia Commons"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.053678,
+          42.363722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Boston Common",
+        "series": "Summer 2016",
+        "tour": "free",
+        "marker-size": "medium",
+        "marker-color": "#990000",
+        "marker-symbol": "circle-stroked",
+        "images": [
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Boston_Common.jpg",
+            "description": "Boston Common, Boston, MA. (\"Boston Common\" by Leslie Williams (My own photograph) [Public domain], via Wikimedia Commons)"
+          },
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Boston_Common_aerial.JPG",
+            "description": "Boston Common, Boston, MA.  Aerial view. (\"Boston Common, Boston, MA\" by By Nick Allen (Own work) [CC BY-SA 4.0], via Wikimedia Commons)"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.065556,
+          42.355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old State House",
+        "series": "Summer 2016",
+        "tour": "free",
+        "marker-size": "medium",
+        "marker-color": "#990000",
+        "marker-symbol": "circle-stroked",
+        "images": [
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Old_State_House%2C_Boston%2C_1906_cph.3b18709.jpg",
+            "description": "Old State House, Boston, MA.  Circa 1906. (\"Old State House\" by Detroit Publishing Co. [Public domain], via Wikimedia Commons)"
+          },
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Old_State_House_Boston_2009f.JPG",
+            "description": "Old State House, Boston, MA (\"Old State House, Boston, MA\" by Chensiyuan)"
+          },
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/OldStateHouse_Boston_byEdwinWhitefield_1889.png",
+            "description": "Old State House, Boston, MA,.  Circa 1889 (\"Old State House\" by Edwin Whitefield [Public domain], via Wikimedia Commons)"
+          },
+          {
+            "format": "YouTube",
+            "url": "https://www.youtube.com/embed/pDxli6HkSzk",
+            "description": "Boston History in a Minute - The Old State House"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.057806,
+          42.358769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bunker Hill Monument",
+        "series": "Summer 2016",
+        "tour": "free",
+        "marker-size": "medium",
+        "marker-color": "#990000",
+        "marker-symbol": "circle-stroked",
+        "images": [
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bunker_Hill_Monument_2001-08.jpg",
+            "description": "Bunker Hill Monument, Charlestown, MA.  Circa 1906. (\"Bunker Hill Monument\" by en:User:Nothings (en:WP) [Public domain], via Wikimedia Commons)"
+          },
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bunker_Hill_Monument_%288609105279%29.jpg",
+            "description": "Bunker Hill Monument, Charlestown, MA (\"Bunker Hill Monument\" by City of Boston Archives from West Roxbury, United States (Bunker Hill Monument) [CC BY 2.0], via Wikimedia Commons)"
+          },
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bunker_Hill_Monument_%28Boston_Public_Library%29.jpg",
+            "description": "Bunker Hill Monument, Charlestown, MA. Lithograph (\"Bunker Hill Monument\" by By BPL (Flickr: Bunker Hill Monument) [CC BY 2.0], via Wikimedia Commons)"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.060778,
+          42.376361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old South Meeting House",
+        "series": "Summer 2016",
+        "tour": "free",
+        "marker-size": "medium",
+        "marker-color": "#990000",
+        "marker-symbol": "circle-stroked",
+        "images": [
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Old_South_Meeting_House_in_Boston_MA.jpg",
+            "description": "Old South Meeting House, Boston, MA.  Built in 1729 as a meeting house for the Puritans to worship in. Old South Meeting House was the largest building in all of colonial Boston and the setting for some of the most dramatic events leading up to the American Revolution. (\"Old South Meeting House\" by Swampyank at en.wikipedia [CC BY-SA 3.0], via Wikimedia Commons"
+          },
+          {
+            "format": "Image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/The_Old_South_Meeting_House.jpg",
+            "description": "Old South Meeting House, Boston, MA.  ca. 1898 (\"Old South Meeting House\" by BPL [CC BY 2.0], via Wikimedia Commons"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.058611,
+          42.356944
+        ]
+      }
+    }
+  ]
+}
